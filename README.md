@@ -32,7 +32,7 @@ Una volta scaricati, potrai aprire i file con i rispettivi programmi di progetta
 
 ### Collegamento delle librerie (UI Kit) ai prototipi in Figma
 
-I prototipi utilizzano componenti collegati a **UI Kit del Fascicolo Sanitario Elettronico** (`FSE-Libreria-componenti`) e alla **versione 3.6.3** di UI Kit Italia (`UI-Kit-Italia`), che include icone, tipografia, colori e ombre applicati.
+I prototipi utilizzano componenti collegati alla pre-release dedicata a EDS di **UI Kit del Fascicolo Sanitario Elettronico** (`FSE-Libreria-componenti-pre-release-EDS`) e alla **versione 3.6.3** di UI Kit Italia (`UI-Kit-Italia`), che include icone, tipografia, colori e ombre applicati.
 
 **Per collegare le librerie in Figma:**
 1. Assicurati di disporre di un **account Figma Pro** o superiore, necessario per pubblicare e collegare le librerie.
